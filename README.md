@@ -1,4 +1,4 @@
-# Hi there 👋 I'm person one
+# Hi there 👋 I'm MI SORAKMONY
 
 🎓 Computer Science student
 💻 Passionate about programming and problem solving
